@@ -1,6 +1,6 @@
 to Who ever uses this code 
 
-1) need to change the location of driver--> in line 8 
+1) need to change the location of driver ( if u are using chrome then location of chrome drivers )--> in line 8 
 
 2) u need to change ur target name--> in line 12
 
