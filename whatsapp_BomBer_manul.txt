@@ -1,0 +1,13 @@
+to Who ever uses this code 
+
+1) need to change the location of driver--> in line 8 
+
+2) u need to change ur target name--> in line 12
+
+3) the string attached with variable string is the message with which u going to bomb so change that if u want--> in line 13 
+
+4) check the message bar tag by inspecting and even change it if its not _3uMse --> line 18
+
+5) u can enter the count how much u want in the for looop condition
+
+---- execute block 1 then scan and wait for a wile ( 5 sec ) and then run block 2 ----
